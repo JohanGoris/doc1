@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<?xml-stylesheet type="text/css" href="css/test.css" title="testtitle" alternate="no"?>
+<map>
+    <title>FormulaNet</title>
+    <topicref href="supported_browsers.dita">
+        <keydef href="supported_browsers.dita" keys="sup_browsers" navtitle="Supported browsers"/>
+    </topicref>
+    <topicref href="user_management.dita"/>
+    <topicref href="creating_projects.dita"/>
+</map>

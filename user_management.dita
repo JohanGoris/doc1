@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<?xml-stylesheet type="text/css" href="css/test.css" title="testtitle" alternate="no"?>
+<concept id="user_management">
+    <title>User management</title>
+    <shortdesc><ph conref="Variables.dita#ReusableComponent_l5d_dbp_rz/product"/> is a web
+        application and has a user management.</shortdesc>
+    <conbody>
+        <section>
+            <title>Login screen</title>
+            <p>The <ph conref="Variables.dita#ReusableComponent_l5d_dbp_rz/product"/> login
+                screen is displayed if you are using a supported browser <xref keyref="sup_browsers"
+                    /><fig id="fig_ifg_vjp_rz">
+                        <title><ph conref="Variables.dita#ReusableComponent_l5d_dbp_rz/product"/> login screen</title>
+                    <image href="images/Custom_Web_Applications_2_2_1_IMG.png">
+                        <alt>Login screen</alt>
+                    </image>
+                </fig>
+            </p>
+            <p>You need to enter your user name and password for the project.</p>
+            <p>For example, enter <userinput>John</userinput> in the field. <ph
+                    conref="Variables.dita#ReusableComponent_l5d_dbp_rz/product"/> will ask
+                for the password.</p>
+            <p>Next, look for the password.</p>
+        </section>
+        <section>
+            <title>How to get credentials</title>
+            <p>Contact your system administrator for credentials.</p>
+            <p>Do not attempt to contact Applied Maths. </p>
+        </section>
+    </conbody>
+</concept>

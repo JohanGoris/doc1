@@ -1,0 +1,5 @@
+*[class~="topic/p"] {
+  display: block;
+  margin: 1.5em 0;
+  color: red;
+}
