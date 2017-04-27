@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Untitled">
+    <title>The project overview window</title>
+    <shortdesc>All information about a project is contained in the Project overview
+        window.</shortdesc>
+    <conbody>
+        <p>Clicking the FormulaNet icon opens the Project overview window.<fig id="fig_zhr_mv2_sz">
+                <title>The Project overview window</title>
+                <image placement="break" href="images/Custom_Web_Applications_2_3_1_IMG.png"
+                    id="image_a3r_mv2_sz">
+                    <alt>The Project overview window</alt>
+                </image>
+            </fig></p>
+        <p>There are 5 options in the upper margin of the Projects Overview window:</p>
+        <ul id="ul_wb1_yv2_sz">
+            <li>
+                <uicontrol>New formula</uicontrol>: This option is to create a new query by manually
+                inputting the product formula by ingredient (see 4.1). </li>
+            <li>
+                <uicontrol>Upload formula</uicontrol>: This option is to create a new query by
+                directly uploading properly-formatted files to be queried (see 4.2). </li>
+            <li><uicontrol>Resubmit formula</uicontrol>: Modify a project that has already been
+                run.</li>
+            <li><uicontrol>Refresh</uicontrol>: Refreshes the grid.</li>
+            <li><uicontrol>Search</uicontrol>: Searches the Projects overview window.</li>
+        </ul>
+    </conbody>
+</concept>

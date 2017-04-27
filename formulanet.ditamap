@@ -7,5 +7,9 @@
         <keydef href="supported_browsers.dita" keys="sup_browsers" navtitle="Supported browsers"/>
     </topicref>
     <topicref href="user_management.dita"/>
-    <topicref href="creating_projects.dita"/>
+    <topicref href="creating_projects.dita">
+        <topichead navtitle="Dealing with projects">
+            <topicref href="project_window.dita"/>
+        </topichead>
+    </topicref>
 </map>
